@@ -1,21 +1,21 @@
 # simple-catppuccin-rice
 
 ## Screenshots
-
-## Apps we love to rice
+wip
+### Apps we love to rice
 ```
 sudo pacman -S dunst kitty nemo waybar wofi
 ```
-## Fonts
+### Fonts
 ```
 sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra oto-fonts-cjk otf-font-awesome
 ```
-## GTK theming (<=3.2)
+### GTK theming (<=3.2)
 ```
 sudo pacman -S dconf-editor
 ```
 ``` 
 yay -S themix-full-git
 ```
-## Other apps
+### Other apps
 wip
