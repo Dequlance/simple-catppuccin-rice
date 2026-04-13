@@ -28,6 +28,7 @@ All the configs were changed to my preferences. Clone original repositories if y
 ```
 sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra oto-fonts-cjk otf-font-awesome
 ```
+Necessary for correctly displayed fonts / emojis / special symbols / JP CN characters
 ### GTK theming (<=3.2)
 ```
 sudo pacman -S dconf-editor
