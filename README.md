@@ -1,5 +1,5 @@
 # simple-catppuccin-rice
-
+Simple Hyprland catppuccin rice. Mostly made this repo for myself just to keep all the stuff organized and easily reproducable from a fresh Arch install, but feel free to use it as you wish! 
 ## Screenshots
 wip
 ### Apps we love to rice
@@ -26,7 +26,7 @@ All the configs were changed to my preferences. Clone original repositories if y
 
 ### Fonts
 ```
-sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra oto-fonts-cjk otf-font-awesome
+sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra noto-fonts-cjk otf-font-awesome
 ```
 Necessary for correctly displayed fonts / emojis / special symbols / JP CN characters
 ### GTK theming (<=3.2)
