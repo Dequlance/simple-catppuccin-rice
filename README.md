@@ -2,6 +2,10 @@
 
 ## Screenshots
 
+## Apps we love to rice
+```
+sudo pacman -S dunst kitty nemo waybar wofi
+```
 ## Fonts
 ```
 sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra oto-fonts-cjk otf-font-awesome
