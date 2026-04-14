@@ -22,6 +22,7 @@ sudo pacman -S dconf-editor
 ``` 
 yay -S themix-full-git
 ```
+GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in dconf-editor and selecting it by it is name
 [yay](https://github.com/jguer/yay)
 ## Other apps
 ```
