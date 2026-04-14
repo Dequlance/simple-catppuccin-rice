@@ -8,7 +8,7 @@ sudo pacman -S dunst kitty nemo waybar wofi
 ```
 Make sure to change .config file for `hyprland waybar and dunst` for your screen resolution
 
-All the configs were changed to my preferences. Clone original repositories if you want original look
+All the configs were changed to my preferences. Clone original repositories from the `credits` if you want original look
 
 ### Fonts
 ```
@@ -25,11 +25,10 @@ yay -S themix-full-git
 [yay](https://github.com/jguer/yay)
 ## Other apps
 ```
-sudo pacman -S hyprpaper hyprshot
+sudo pacman -S hyprpaper hyprshot webcord ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look
 ```
 [Hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/)
 [Hyprshot](https://github.com/Gustash/Hyprshot)
-wip
 ### Credits
 Dunst colors [link](https://github.com/catppuccin/dunst/blob/main/themes/mocha.conf)
 
