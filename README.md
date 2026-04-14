@@ -1,7 +1,7 @@
 # simple-catppuccin-rice
 Simple Hyprland catppuccin rice. Mostly made this repo for myself just to keep all the stuff organized and easily reproducable from a fresh Arch install, but feel free to use it as you wish! 
 ## Screenshots
-wip
+![Hello:)](https://raw.githubusercontent.com/Dequlance/simple-catppuccin-rice/refs/heads/main/2026-04-14-100427_hyprshot.png)
 ### Apps we love to rice
 ```
 sudo pacman -S dunst kitty nemo waybar wofi
@@ -22,7 +22,13 @@ sudo pacman -S dconf-editor
 ``` 
 yay -S themix-full-git
 ```
+[yay](https://github.com/jguer/yay)
 ## Other apps
+```
+sudo pacman -S hyprpaper hyprshot
+```
+[Hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/)
+[Hyprshot](https://github.com/Gustash/Hyprshot)
 wip
 ### Credits
 Dunst colors [link](https://github.com/catppuccin/dunst/blob/main/themes/mocha.conf)
