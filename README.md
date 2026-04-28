@@ -17,6 +17,9 @@ sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fo
 Necessary for correctly displayed fonts / emojis / special symbols / JP CN characters
 ### GTK theming (<=3.2)
 ```
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+```
+```
 sudo pacman -S dconf-editor
 ```
 ``` 
@@ -24,7 +27,6 @@ yay -S themix-full-git
 ```
 GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in dconf-editor and selecting it by it is name
 
-[yay](https://github.com/jguer/yay)
 ## Other apps
 ```
 sudo pacman -S hyprpaper hyprshot webcord ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look
