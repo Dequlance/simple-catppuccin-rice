@@ -26,13 +26,10 @@ sudo pacman -S dconf-editor
 yay -S themix-full-git
 ```
 GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in dconf-editor and selecting it by it is name
-
 ## Other apps
 ```
 sudo pacman -S hyprpaper hyprshot webcord ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look
 ```
-[Hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/)
-[Hyprshot](https://github.com/Gustash/Hyprshot)
 ### Credits
 Dunst colors [link](https://github.com/catppuccin/dunst/blob/main/themes/mocha.conf)
 
