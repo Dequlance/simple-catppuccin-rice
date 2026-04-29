@@ -31,7 +31,7 @@ GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in d
 sudo pacman -S hyprpaper hyprshot webcord ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look qbittorrent
 ```
 ```
-yay -S sleepy-launcher-bin protonplus faugus-launcher
+yay -S protonplus faugus-launcher
 ```
 [Osu! install](https://github.com/NelloKudo/osu-winello#installation)
 ### Credits
