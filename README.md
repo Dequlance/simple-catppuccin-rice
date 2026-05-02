@@ -28,7 +28,7 @@ yay -S themix-full-git
 GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in dconf-editor and selecting it by it is name
 ## Other apps
 ```
-sudo pacman -S hyprpaper hyprshot ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look qbittorrent
+sudo pacman -S hyprpaper hyprshot ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look qbittorrent git fastfetch
 ```
 ```
 yay -S protonplus faugus-launcher vesktop
