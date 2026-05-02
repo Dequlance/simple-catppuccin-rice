@@ -12,7 +12,7 @@ All the configs were changed to my preferences. Clone original repositories from
 
 ### Fonts
 ```
-sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji ttf-noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra noto-fonts-cjk otf-font-awesome
+sudo pacman -S noto-fonts nerd-fonts noto-fonts-emoji noto-fonts ttf-nerd-fonts-symbols noto-fonts-extra noto-fonts-cjk otf-font-awesome
 ```
 Necessary for correctly displayed fonts / emojis / special symbols / JP CN characters
 ### GTK theming (<=3.2)
