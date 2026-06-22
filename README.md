@@ -34,7 +34,9 @@ sudo pacman -S feh goverlay hyprpaper hyprshot ark vlc bluez vlc-plugins-all bto
 yay -S protonplus faugus-launcher vesktop
 ```
 [Osu! install](https://github.com/NelloKudo/osu-winello#installation)
+
 [Zapret] (https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+
 [TG-WS Proxy] (https://github.com/Flowseal/tg-ws-proxy)
 ### Credits
 Dunst colors [link](https://github.com/catppuccin/dunst/blob/main/themes/mocha.conf)
