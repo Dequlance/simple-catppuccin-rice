@@ -28,12 +28,14 @@ yay -S themix-full-git
 GTK theme should go in to `.themes` folder. Enable it by typing `gtk-theme` in dconf-editor and selecting it by it is name
 ## Other apps
 ```
-sudo pacman -S hyprpaper hyprshot ark vlc vlc-plugins-all btop geany hyprpolkitagent kio-admin pavucontrol steam telegram-desktop nwg-look qbittorrent git fastfetch
+sudo pacman -S feh goverlay hyprpaper hyprshot ark vlc bluez vlc-plugins-all btop geany hyprpolkitagent libreoffice-fresh-ru libreoffice-fresh kio-admin pavucontrol steam telegram-desktop nwg-look qbittorrent git fastfetch
 ```
 ```
 yay -S protonplus faugus-launcher vesktop
 ```
 [Osu! install](https://github.com/NelloKudo/osu-winello#installation)
+[Zapret] (https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+[TG-WS Proxy] (https://github.com/Flowseal/tg-ws-proxy)
 ### Credits
 Dunst colors [link](https://github.com/catppuccin/dunst/blob/main/themes/mocha.conf)
 
